@@ -1,0 +1,254 @@
+{
+    "TV&Home Theater": {
+        "Category": {
+            "TVS 65\"": {
+                "TotalAttraction": 7.627439287736874, 
+                "Type": {
+                    "4K LED": {
+                        "TotalAttraction": 4.316423088612904
+                    }, 
+                    "4K QLED": {
+                        "TotalAttraction": 2.5740975323599864
+                    }
+                    "4K OLED": {
+                        "TotalAttraction": 0.7369186667639837
+                    }, 
+                }
+            }, 
+            "TVS 50\" - 55\"": {
+                "TotalAttraction": 6.095996712591195, 
+                "Type": {
+                    "4K LED": {
+                        "TotalAttraction": 5.313093729990602
+                    }, 
+                    "4K OLED": {
+                        "TotalAttraction": 0.782902982600594
+                    }
+                }
+            }, 
+            "TVS 70\" - 75\"": {
+                "TotalAttraction": 4.0348346579422305, 
+                "Type": {
+                    "4K LED": {
+                        "TotalAttraction": 2.2753258245680597
+                    }, 
+                    "4K QLED": {
+                        "TotalAttraction": 1.7595088333741709
+                    }
+                }
+            }, 
+            "TVS 30\" to 45\"": {
+                "TotalAttraction": 2.8282978413101, 
+                "Type": {
+                    "720p LED Smart": {
+                        "TotalAttraction": 1.1370730151439914
+                    }
+                    "4K LED": {
+                        "TotalAttraction": 0.7564925004950337
+                    }, 
+                    "1080p LED Smart": {
+                        "TotalAttraction": 0.5615280989846619
+                    }, 
+                    "720p LED HDTV": {
+                        "TotalAttraction": 0.3732042266864126
+                    }, 
+                }
+            }, 
+            "Video": {
+                "TotalAttraction": 2.115155838973779, 
+                "Type": {
+                    "Blu-Ray Players": {
+                        "TotalAttraction": 2.115155838973779
+                    }
+                }
+            }
+            "TVS 85\"": {
+                "TotalAttraction": 0.8262136027752036, 
+                "Type": {
+                    "4K LED": {
+                        "TotalAttraction": 0.8262136027752036
+                    }
+                }
+            }, 
+        }, 
+        "TotalAttraction": 23.527937941329384
+    }, 
+    "Computers&Tablets": {
+        "Category": {
+            "Laptops": {
+                "TotalAttraction": 9.828041711161875, 
+                "Type": {
+                    "2-in-1 Chromebook": {
+                        "TotalAttraction": 2.6647223883081645
+                    }, 
+                    "2-in-1 Laptop": {
+                        "TotalAttraction": 2.581192465848343
+                    }, 
+                    "Chromebook": {
+                        "TotalAttraction": 0.40658253926569243
+                    }, 
+                    "PC Laptop": {
+                        "TotalAttraction": 4.175544317739674
+                    }
+                }
+            }, 
+            "Desktops and All-In-Ones": {
+                "TotalAttraction": 2.9940659235429177, 
+                "Type": {
+                    "All-In-One": {
+                        "TotalAttraction": 1.944190424740238
+                    }, 
+                    "Desktop": {
+                        "TotalAttraction": 1.0498754988026797
+                    }
+                }
+            }, 
+            "Monitors": {
+                "TotalAttraction": 2.5100558644501185, 
+                "Type": {
+                    "LED": {
+                        "TotalAttraction": 2.5100558644501185
+                    }
+                }
+            }, 
+            "Printers": {
+                "TotalAttraction": 1.0614624625077502, 
+                "Type": {
+                    "All-In-One": {
+                        "TotalAttraction": 1.0614624625077502
+                    }
+                }
+            }, 
+            "Tablets": {
+                "TotalAttraction": 0.6263539444046131, 
+                "Type": {
+                    "Tablet": {
+                        "TotalAttraction": 0.6263539444046131
+                    }
+                }
+            }
+        }, 
+        "TotalAttraction": 17.019979906067277
+    },
+    "Appliances": {
+        "Category": {
+            "Major Kitchen Appliances": {
+                "TotalAttraction": 8.003191224133303, 
+                "Type": {
+                    "Range/Stove/Oven": {
+                        "TotalAttraction": 3.0803087392478012
+                    }, 
+                    "Refrigerator": {
+                        "TotalAttraction": 2.830097715567475
+                    }
+                    "Microwave": {
+                        "TotalAttraction": 1.123757346906939
+                    }, 
+                    "Dishwasher": {
+                        "TotalAttraction": 0.9690274224110893
+                    }, 
+                }
+            }, 
+            "Laundry Appliances": {
+                "TotalAttraction": 5.462560836555923, 
+                "Type": {
+                    "Washer": {
+                        "TotalAttraction": 2.944958483182947
+                    }
+                    "Dryer": {
+                        "TotalAttraction": 2.5176023533729754
+                    }, 
+                }
+            }, 
+            "Vacuum Cleaners & Floor Care": {
+                "TotalAttraction": 2.9397021384277386, 
+                "Type": {
+                    "Robot Vacuum": {
+                        "TotalAttraction": 1.5505467134777087
+                    }, 
+                    "Upright Vacuum": {
+                        "TotalAttraction": 0.8714801141438233
+                    }
+                    "Stick Vacuum": {
+                        "TotalAttraction": 0.5176753108062065
+                    }, 
+                }
+            }
+        }, 
+        "TotalAttraction": 16.405454199116967
+    },
+    "Video Gaming": {
+        "Category": {
+            "PC Gaming": {
+                "TotalAttraction": 5.43692600460569, 
+                "Type": {
+                    "Gaming Desktop": {
+                        "TotalAttraction": 3.485221783248271
+                    }, 
+                    "Gaming Laptop": {
+                        "TotalAttraction": 1.9517042213574185
+                    }
+                }
+            }
+            "Console Game Systems": {
+                "TotalAttraction": 2.341278893701037, 
+                "Type": {
+                    "Consoles": {
+                        "TotalAttraction": 2.341278893701037
+                    }
+                }
+            }, 
+        }, 
+        "TotalAttraction": 7.778204898306727
+    }
+    "Cameras": {
+        "Category": {
+            "DSLR Cameras": {
+                "TotalAttraction": 4.611197138937418, 
+                "Type": {
+                    "Camera Package": {
+                        "TotalAttraction": 3.225611092325626
+                    }
+                    "Body Only": {
+                        "TotalAttraction": 1.3855860466117917
+                    }, 
+                }
+            }, 
+            "Mirrorless Cameras": {
+                "TotalAttraction": 2.8481286094956446, 
+                "Type": {
+                    "Camera Package": {
+                        "TotalAttraction": 2.8481286094956446
+                    }
+                }
+            }
+        }, 
+        "TotalAttraction": 7.459325748433063
+    }, 
+    "Cell Phones": {
+        "Category": {
+            "Cell Phones and Accessories": {
+                "TotalAttraction": 1.878820412013741, 
+                "Type": {
+                    "Headsets": {
+                        "TotalAttraction": 1.878820412013741
+                    }
+                }
+            }
+        }, 
+        "TotalAttraction": 1.878820412013741
+    },  
+    "Audio": {
+        "Category": {
+            "Headphones": {
+                "TotalAttraction": 0.5055322074380734, 
+                "Type": {
+                    "Wireless Earphones": {
+                        "TotalAttraction": 0.5055322074380734
+                    }
+                }
+            }
+        }, 
+        "TotalAttraction": 0.5055322074380734
+    }, 
+}

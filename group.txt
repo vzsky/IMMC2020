@@ -1,0 +1,1675 @@
+{
+    "Appliances": {
+        "Category": {
+            "Laundry Appliances": {
+                "TotalAttraction": 5.462560836555923, 
+                "Type": {
+                    "Dryer": {
+                        "TotalAttraction": 2.5176023533729754, 
+                        "list": [
+                            {
+                                "Attract": 0.7347733897026728, 
+                                "Brand": "Brand W", 
+                                "Discount": 140.0, 
+                                "Price": 579.99, 
+                                "Product": "7.3cu ft 8-Cycle Electric Dryer, White", 
+                                "Quantity": 8, 
+                                "Rating": 4.7, 
+                                "Regular Price": 719.99
+                            }, 
+                            {
+                                "Attract": 0.6307234187851454, 
+                                "Brand": "Brand W", 
+                                "Discount": 210.0, 
+                                "Price": 599.99, 
+                                "Product": "7.4cu ft 10-Cycle Smart Wi-Fi Enabled Electric Dryer, White", 
+                                "Quantity": 8, 
+                                "Rating": 4.6, 
+                                "Regular Price": 809.99
+                            }, 
+                            {
+                                "Attract": 0.6223615200169121, 
+                                "Brand": "Brand FF", 
+                                "Discount": 180.0, 
+                                "Price": 499.99, 
+                                "Product": "7.0cu ft 13-Cycle Electric Dryer, White", 
+                                "Quantity": 5, 
+                                "Rating": 4.6, 
+                                "Regular Price": 679.99
+                            }, 
+                            {
+                                "Attract": 0.5297440248682452, 
+                                "Brand": "Brand M", 
+                                "Discount": 200.0, 
+                                "Price": 429.99, 
+                                "Product": "7.2cu ft 3-Cycle Electric Dryer, White", 
+                                "Quantity": 5, 
+                                "Rating": 4.5, 
+                                "Regular Price": 629.99
+                            }
+                        ]
+                    }, 
+                    "Washer": {
+                        "TotalAttraction": 2.944958483182947, 
+                        "list": [
+                            {
+                                "Attract": 0.8312699324665003, 
+                                "Brand": "Brand FF", 
+                                "Discount": 50.0, 
+                                "Price": 449.99, 
+                                "Product": "3.8cu ft 12-Cycle Top-Loading Washer, White ", 
+                                "Quantity": 8, 
+                                "Rating": 4.5, 
+                                "Regular Price": 499.99
+                            }, 
+                            {
+                                "Attract": 0.6960373763497774, 
+                                "Brand": "Brand R", 
+                                "Discount": 100.0, 
+                                "Price": 399.99, 
+                                "Product": "4.1cu ft 11-Cycle HE Top-Loading Washer, White", 
+                                "Quantity": 8, 
+                                "Rating": 4.4, 
+                                "Regular Price": 499.99
+                            }, 
+                            {
+                                "Attract": 0.5948573853846141, 
+                                "Brand": "Brand FF", 
+                                "Discount": 180.0, 
+                                "Price": 499.99, 
+                                "Product": "4.3cu ft 12-Cycle Top-Loading Washer, White", 
+                                "Quantity": 5, 
+                                "Rating": 4.3, 
+                                "Regular Price": 679.99
+                            }, 
+                            {
+                                "Attract": 0.4752032334505782, 
+                                "Brand": "Brand M", 
+                                "Discount": 227.0, 
+                                "Price": 429.99, 
+                                "Product": "4.2cu ft 11-Cycle Top-Loading Washer, White on White", 
+                                "Quantity": 5, 
+                                "Rating": 4.4, 
+                                "Regular Price": 656.99
+                            }, 
+                            {
+                                "Attract": 0.34759055553147755, 
+                                "Brand": "Brand X", 
+                                "Discount": 340.0, 
+                                "Price": 469.99, 
+                                "Product": "3.8cu ft 12-Cycle Top-Loading Washer, White", 
+                                "Quantity": 5, 
+                                "Rating": 4.5, 
+                                "Regular Price": 809.99
+                            }
+                        ]
+                    }
+                }
+            }, 
+            "Major Kitchen Appliances": {
+                "TotalAttraction": 8.003191224133303, 
+                "Type": {
+                    "Dishwasher": {
+                        "TotalAttraction": 0.9690274224110893, 
+                        "list": [
+                            {
+                                "Attract": 0.6572866817676201, 
+                                "Brand": "Brand L", 
+                                "Discount": 85.0, 
+                                "Price": 299.99, 
+                                "Product": "24\" Front Control Tall Tub Built-In Dishwasher, Stainless Steel", 
+                                "Quantity": 8, 
+                                "Rating": 4.3, 
+                                "Regular Price": 384.99
+                            }, 
+                            {
+                                "Attract": 0.3117407406434692, 
+                                "Brand": "Brand FF", 
+                                "Discount": 255.0, 
+                                "Price": 329.99, 
+                                "Product": "24\" Tall Tub Built-In Dishwasher, Monochromatic Stainless Steel", 
+                                "Quantity": 10, 
+                                "Rating": 4.4, 
+                                "Regular Price": 584.99
+                            }
+                        ]
+                    }, 
+                    "Microwave": {
+                        "TotalAttraction": 1.123757346906939, 
+                        "list": [
+                            {
+                                "Attract": 0.6247300401696633, 
+                                "Brand": "Brand B", 
+                                "Discount": 50.0, 
+                                "Price": 139.99, 
+                                "Product": "1.6cu ft Over-the-Range Microwave, Black on Stainless", 
+                                "Quantity": 10, 
+                                "Rating": 4.6, 
+                                "Regular Price": 189.99
+                            }, 
+                            {
+                                "Attract": 0.49902730673727586, 
+                                "Brand": "Brand M", 
+                                "Discount": 90.0, 
+                                "Price": 199.99, 
+                                "Product": "1.6cu ft Over-the-Range Microwave, Stainless Steel", 
+                                "Quantity": 15, 
+                                "Rating": 4.0, 
+                                "Regular Price": 289.99
+                            }
+                        ]
+                    }, 
+                    "Range/Stove/Oven": {
+                        "TotalAttraction": 3.0803087392478012, 
+                        "list": [
+                            {
+                                "Attract": 0.5722408466104532, 
+                                "Brand": "Brand FF", 
+                                "Discount": 180.0, 
+                                "Price": 449.99, 
+                                "Product": "5.1cu ft Freestanding Gas Range, Stainless Steel", 
+                                "Quantity": 8, 
+                                "Rating": 4.4, 
+                                "Regular Price": 629.99
+                            }, 
+                            {
+                                "Attract": 0.5651162921241549, 
+                                "Brand": "Brand W", 
+                                "Discount": 440.0, 
+                                "Price": 999.99, 
+                                "Product": "6.3cu ft Slide-In Electric Range with ProBake Convection, Stainless Steel", 
+                                "Quantity": 5, 
+                                "Rating": 4.7, 
+                                "Regular Price": 1439.99
+                            }, 
+                            {
+                                "Attract": 0.5572594778461657, 
+                                "Brand": "Brand M", 
+                                "Discount": 220.0, 
+                                "Price": 499.99, 
+                                "Product": "5.0cu ft Freestanding Gas Range, Stainless Steel", 
+                                "Quantity": 8, 
+                                "Rating": 4.6, 
+                                "Regular Price": 719.99
+                            }, 
+                            {
+                                "Attract": 0.5395337237318304, 
+                                "Brand": "Brand FF", 
+                                "Discount": 370.0, 
+                                "Price": 799.99, 
+                                "Product": "30\" Built-In Single Electric Wall Oven, Stainless Steel", 
+                                "Quantity": 5, 
+                                "Rating": 4.6, 
+                                "Regular Price": 1169.99
+                            }, 
+                            {
+                                "Attract": 0.47809991676080166, 
+                                "Brand": "Brand W", 
+                                "Discount": 1130.0, 
+                                "Price": 2199.99, 
+                                "Product": "30\" Combination Double Electric Convection Wall Oven with Built-In Microwave", 
+                                "Quantity": 5, 
+                                "Rating": 4.3, 
+                                "Regular Price": 3329.99
+                            }, 
+                            {
+                                "Attract": 0.36805848217439546, 
+                                "Brand": "Brand M", 
+                                "Discount": 560.0, 
+                                "Price": 799.99, 
+                                "Product": "5.3cu ft Slide-In Electric Range, Stainless Steel", 
+                                "Quantity": 5, 
+                                "Rating": 4.6, 
+                                "Regular Price": 1359.99
+                            }
+                        ]
+                    }, 
+                    "Refrigerator": {
+                        "TotalAttraction": 2.830097715567475, 
+                        "list": [
+                            {
+                                "Attract": 0.7180803734845632, 
+                                "Brand": "Brand W", 
+                                "Discount": 454.9999999999998, 
+                                "Price": 1749.99, 
+                                "Product": "26.2cu ft French Door Smart Wi-Fi Enabled Refrigerator, PrintProof, Black Stainless", 
+                                "Quantity": 10, 
+                                "Rating": 4.7, 
+                                "Regular Price": 2204.99
+                            }, 
+                            {
+                                "Attract": 0.6230734208845422, 
+                                "Brand": "Brand W", 
+                                "Discount": 850.0, 
+                                "Price": 2299.99, 
+                                "Product": "27.8cu ft 4 Door French Door Refrigerator, PrintProof, InstaView Door-in-Door, Stainless", 
+                                "Quantity": 8, 
+                                "Rating": 4.7, 
+                                "Regular Price": 3149.99
+                            }, 
+                            {
+                                "Attract": 0.6011321621948715, 
+                                "Brand": "Brand FF", 
+                                "Discount": 674.9999999999998, 
+                                "Price": 1799.99, 
+                                "Product": "26.8cu ft French Door Refrigerator, Stainless Steel", 
+                                "Quantity": 8, 
+                                "Rating": 4.5, 
+                                "Regular Price": 2474.99
+                            }, 
+                            {
+                                "Attract": 0.531561892529078, 
+                                "Brand": "Brand M", 
+                                "Discount": 520.0, 
+                                "Price": 1099.99, 
+                                "Product": "25.1cu ft Side-by-Side Refrigerator, Fingerprint Resistant, Stainless Steel", 
+                                "Quantity": 5, 
+                                "Rating": 4.6, 
+                                "Regular Price": 1619.99
+                            }, 
+                            {
+                                "Attract": 0.35624986647441975, 
+                                "Brand": "Brand FF", 
+                                "Discount": 1064.9999999999998, 
+                                "Price": 1499.99, 
+                                "Product": "24.7cu ft French Door Refrigerator, Black Stainless Steel", 
+                                "Quantity": 5, 
+                                "Rating": 4.5, 
+                                "Regular Price": 2564.99
+                            }
+                        ]
+                    }
+                }
+            }, 
+            "Vacuum Cleaners & Floor Care": {
+                "TotalAttraction": 2.9397021384277386, 
+                "Type": {
+                    "Robot Vacuum": {
+                        "TotalAttraction": 1.5505467134777087, 
+                        "list": [
+                            {
+                                "Attract": 0.5031927991577956, 
+                                "Brand": "Brand S", 
+                                "Discount": 100.0, 
+                                "Price": 199.99, 
+                                "Product": "App-Controlled Robot Vacuum", 
+                                "Quantity": 15, 
+                                "Rating": 4.5, 
+                                "Regular Price": 299.99
+                            }, 
+                            {
+                                "Attract": 0.4879893279863903, 
+                                "Brand": "Brand CC", 
+                                "Discount": 150.0, 
+                                "Price": 299.99, 
+                                "Product": "App-Controlled Robot Vacuum", 
+                                "Quantity": 15, 
+                                "Rating": 4.3, 
+                                "Regular Price": 449.99
+                            }, 
+                            {
+                                "Attract": 0.2991357683358932, 
+                                "Brand": "Brand S", 
+                                "Discount": 220.0, 
+                                "Price": 279.99, 
+                                "Product": "App-Controlled Self-Charging Robot Vacuum", 
+                                "Quantity": 10, 
+                                "Rating": 4.3, 
+                                "Regular Price": 499.99
+                            }, 
+                            {
+                                "Attract": 0.2602288179976296, 
+                                "Brand": "Brand J", 
+                                "Discount": 130.0, 
+                                "Price": 149.99, 
+                                "Product": "App-Controlled Self-Charging Robot Vacuum", 
+                                "Quantity": 10, 
+                                "Rating": 4.5, 
+                                "Regular Price": 279.99
+                            }
+                        ]
+                    }, 
+                    "Stick Vacuum": {
+                        "TotalAttraction": 0.5176753108062065, 
+                        "list": [
+                            {
+                                "Attract": 0.5176753108062065, 
+                                "Brand": "Brand CC", 
+                                "Discount": 80.0, 
+                                "Price": 169.99, 
+                                "Product": "Bagless Cordless Pet Handheld/Stick Vacuum", 
+                                "Quantity": 15, 
+                                "Rating": 4.4, 
+                                "Regular Price": 249.99
+                            }
+                        ]
+                    }, 
+                    "Upright Vacuum": {
+                        "TotalAttraction": 0.8714801141438233, 
+                        "list": [
+                            {
+                                "Attract": 0.4755611518734743, 
+                                "Brand": "Brand I", 
+                                "Discount": 250.0, 
+                                "Price": 449.99, 
+                                "Product": "Ball Animal + Allergy Bagless Upright Vacuum", 
+                                "Quantity": 10, 
+                                "Rating": 4.7, 
+                                "Regular Price": 699.99
+                            }, 
+                            {
+                                "Attract": 0.39591896227034906, 
+                                "Brand": "Brand I", 
+                                "Discount": 200.0, 
+                                "Price": 299.99, 
+                                "Product": "Ball Animal 2 Bagless Upright Vacuum", 
+                                "Quantity": 10, 
+                                "Rating": 4.7, 
+                                "Regular Price": 499.99
+                            }
+                        ]
+                    }
+                }
+            }
+        }, 
+        "TotalAttraction": 16.405454199116967
+    }, 
+    "Audio": {
+        "Category": {
+            "Headphones": {
+                "TotalAttraction": 0.5055322074380734, 
+                "Type": {
+                    "Wireless Earphones": {
+                        "TotalAttraction": 0.5055322074380734, 
+                        "list": [
+                            {
+                                "Attract": 0.36096054808857037, 
+                                "Brand": "Brand T", 
+                                "Discount": 88.0, 
+                                "Price": 131.99, 
+                                "Product": "Sport Wireless Earbud Headphones", 
+                                "Quantity": 25, 
+                                "Rating": 4.1, 
+                                "Regular Price": 219.99
+                            }, 
+                            {
+                                "Attract": 0.144571659349503, 
+                                "Brand": "Brand D", 
+                                "Discount": 130.0, 
+                                "Price": 119.99, 
+                                "Product": "Wireless Earbud Headphones", 
+                                "Quantity": 25, 
+                                "Rating": 4.5, 
+                                "Regular Price": 249.99
+                            }
+                        ]
+                    }
+                }
+            }
+        }, 
+        "TotalAttraction": 0.5055322074380734
+    }, 
+    "Cameras": {
+        "Category": {
+            "DSLR Cameras": {
+                "TotalAttraction": 4.611197138937418, 
+                "Type": {
+                    "Body Only": {
+                        "TotalAttraction": 1.3855860466117917, 
+                        "list": [
+                            {
+                                "Attract": 0.8538875994060774, 
+                                "Brand": "Brand E", 
+                                "Discount": 300.0, 
+                                "Price": 2199.99, 
+                                "Product": "DSLR Camera, Body Only, Black", 
+                                "Quantity": 20, 
+                                "Rating": 4.9, 
+                                "Regular Price": 2499.99
+                            }, 
+                            {
+                                "Attract": 0.5316984472057144, 
+                                "Brand": "Brand AA", 
+                                "Discount": 500.0, 
+                                "Price": 999.99, 
+                                "Product": "DSLR Camera, Body Only, Black", 
+                                "Quantity": 10, 
+                                "Rating": 4.9, 
+                                "Regular Price": 1499.99
+                            }
+                        ]
+                    }, 
+                    "Camera Package": {
+                        "TotalAttraction": 3.225611092325626, 
+                        "list": [
+                            {
+                                "Attract": 0.8669383373842072, 
+                                "Brand": "Brand E", 
+                                "Discount": 40.0, 
+                                "Price": 359.99, 
+                                "Product": "DSLR Two Lens Kit with EF-S 18-55mm IS II and EF 75-300m", 
+                                "Quantity": 20, 
+                                "Rating": 4.8, 
+                                "Regular Price": 399.99
+                            }, 
+                            {
+                                "Attract": 0.8536436030503675, 
+                                "Brand": "Brand AA", 
+                                "Discount": 50.0, 
+                                "Price": 399.99, 
+                                "Product": "DSLR Two Lens Kit with AF-P DX NIKKOR 18-55mmf/3.5-5.6G VR &", 
+                                "Quantity": 20, 
+                                "Rating": 4.8, 
+                                "Regular Price": 449.99
+                            }, 
+                            {
+                                "Attract": 0.793193529883248, 
+                                "Brand": "Brand AA", 
+                                "Discount": 200.0, 
+                                "Price": 999.99, 
+                                "Product": "DSLR Two Lens Kit with 18-55mm and 70-300mm Lenses, Black", 
+                                "Quantity": 20, 
+                                "Rating": 4.9, 
+                                "Regular Price": 1199.99
+                            }, 
+                            {
+                                "Attract": 0.7118356220078031, 
+                                "Brand": "Brand E", 
+                                "Discount": 250.0, 
+                                "Price": 899.99, 
+                                "Product": "DSLR Camera with 18-55mm IS STM Lens, Black", 
+                                "Quantity": 15, 
+                                "Rating": 4.8, 
+                                "Regular Price": 1149.99
+                            }
+                        ]
+                    }
+                }
+            }, 
+            "Mirrorless Cameras": {
+                "TotalAttraction": 2.8481286094956446, 
+                "Type": {
+                    "Camera Package": {
+                        "TotalAttraction": 2.8481286094956446, 
+                        "list": [
+                            {
+                                "Attract": 0.9259612109674711, 
+                                "Brand": "Brand E", 
+                                "Discount": 30.0, 
+                                "Price": 599.99, 
+                                "Product": "Mirrorless Camera with Lens", 
+                                "Quantity": 20, 
+                                "Rating": 4.8, 
+                                "Regular Price": 629.99
+                            }, 
+                            {
+                                "Attract": 0.8891489384641422, 
+                                "Brand": "Brand DD", 
+                                "Discount": 199.99999999999977, 
+                                "Price": 1999.99, 
+                                "Product": "Mirrorless Camera with FE 28-70mm F3.5-5.6 OSS Lens", 
+                                "Quantity": 20, 
+                                "Rating": 4.9, 
+                                "Regular Price": 2199.99
+                            }, 
+                            {
+                                "Attract": 0.5840332952951943, 
+                                "Brand": "Brand DD", 
+                                "Discount": 250.0, 
+                                "Price": 599.99, 
+                                "Product": "Mirrorless Camera Two Lens Kit with 16-50mm and 55-210mm Le", 
+                                "Quantity": 10, 
+                                "Rating": 4.7, 
+                                "Regular Price": 849.99
+                            }, 
+                            {
+                                "Attract": 0.44898516476883693, 
+                                "Brand": "Brand DD", 
+                                "Discount": 600.0, 
+                                "Price": 999.99, 
+                                "Product": "Full-Frame Mirrorless Camera with 28-70mm Lens, Black", 
+                                "Quantity": 10, 
+                                "Rating": 4.8, 
+                                "Regular Price": 1599.99
+                            }
+                        ]
+                    }
+                }
+            }
+        }, 
+        "TotalAttraction": 7.459325748433063
+    }, 
+    "Cell Phones": {
+        "Category": {
+            "Cell Phones and Accessories": {
+                "TotalAttraction": 1.878820412013741, 
+                "Type": {
+                    "Headsets": {
+                        "TotalAttraction": 1.878820412013741, 
+                        "list": [
+                            {
+                                "Attract": 0.7723890190514001, 
+                                "Brand": "Brand HH", 
+                                "Discount": 50.0, 
+                                "Price": 249.99, 
+                                "Product": "Wireless Wearable Speaker - Black", 
+                                "Quantity": 15, 
+                                "Rating": 4.7, 
+                                "Regular Price": 299.99
+                            }, 
+                            {
+                                "Attract": 0.6628545502055316, 
+                                "Brand": "Brand W", 
+                                "Discount": 40.0, 
+                                "Price": 159.99, 
+                                "Product": "Wireless Bluetooth Headset - Black", 
+                                "Quantity": 20, 
+                                "Rating": 4.1, 
+                                "Regular Price": 199.99
+                            }, 
+                            {
+                                "Attract": 0.4435768427568093, 
+                                "Brand": "Brand II", 
+                                "Discount": 45.000000000000014, 
+                                "Price": 84.99, 
+                                "Product": "Wireless Noise Cancelling Earbud Headphones - Graphite", 
+                                "Quantity": 20, 
+                                "Rating": 4.0, 
+                                "Regular Price": 129.99
+                            }
+                        ]
+                    }
+                }
+            }
+        }, 
+        "TotalAttraction": 1.878820412013741
+    }, 
+    "Computers&Tablets": {
+        "Category": {
+            "Desktops and All-In-Ones": {
+                "TotalAttraction": 2.9940659235429177, 
+                "Type": {
+                    "All-In-One": {
+                        "TotalAttraction": 1.944190424740238, 
+                        "list": [
+                            {
+                                "Attract": 0.6879544502674305, 
+                                "Brand": "Brand V", 
+                                "Discount": 150.0, 
+                                "Price": 529.99, 
+                                "Product": "23.8\" Touch-Screen All-in-One, AMD Ryzen 3-Series, 8GB Memory, 256GB", 
+                                "Quantity": 15, 
+                                "Rating": 4.6, 
+                                "Regular Price": 679.99
+                            }, 
+                            {
+                                "Attract": 0.6335514363958166, 
+                                "Brand": "Brand P", 
+                                "Discount": 250.0, 
+                                "Price": 699.99, 
+                                "Product": "23.8\" Touch-Screen All-in-One, Intel Core i5, 12GB RAM, 256GB SSD", 
+                                "Quantity": 15, 
+                                "Rating": 4.7, 
+                                "Regular Price": 949.99
+                            }, 
+                            {
+                                "Attract": 0.622684538076991, 
+                                "Brand": "Brand P", 
+                                "Discount": 380.0, 
+                                "Price": 999.99, 
+                                "Product": "27\" Touch-Screen All-in-One, Intel Core i7, 12GB RAM, 256GB SSD", 
+                                "Quantity": 15, 
+                                "Rating": 4.8, 
+                                "Regular Price": 1379.99
+                            }
+                        ]
+                    }, 
+                    "Desktop": {
+                        "TotalAttraction": 1.0498754988026797, 
+                        "list": [
+                            {
+                                "Attract": 0.6069207882791058, 
+                                "Brand": "Brand P", 
+                                "Discount": 350.0, 
+                                "Price": 899.99, 
+                                "Product": "Intel Core i7 9700, 16GB RAM, NVIDIA GeForce GTX 1660 Ti,", 
+                                "Quantity": 12, 
+                                "Rating": 4.7, 
+                                "Regular Price": 1249.99
+                            }, 
+                            {
+                                "Attract": 0.4429547105235738, 
+                                "Brand": "Brand P", 
+                                "Discount": 300.0, 
+                                "Price": 499.99, 
+                                "Product": "Desktop, Intel Core i7, 8GB RAM, 256GB SSD", 
+                                "Quantity": 10, 
+                                "Rating": 4.7, 
+                                "Regular Price": 799.99
+                            }
+                        ]
+                    }
+                }
+            }, 
+            "Laptops": {
+                "TotalAttraction": 9.828041711161875, 
+                "Type": {
+                    "2-in-1 Chromebook": {
+                        "TotalAttraction": 2.6647223883081645, 
+                        "list": [
+                            {
+                                "Attract": 0.7412118193072144, 
+                                "Brand": "Brand G", 
+                                "Discount": 100.0, 
+                                "Price": 449.0, 
+                                "Product": "2-in-1 14\" Touch-Screen Chromebook, Intel Core i3, 4GB RAM, 128GB", 
+                                "Quantity": 10, 
+                                "Rating": 4.6, 
+                                "Regular Price": 549.0
+                            }, 
+                            {
+                                "Attract": 0.6819358580380915, 
+                                "Brand": "Brand A", 
+                                "Discount": 60.99000000000001, 
+                                "Price": 219.0, 
+                                "Product": "2-in-1 11.6\" Touch-Screen Chromebook, Intel Celeron, 4GB RAM, 32GB", 
+                                "Quantity": 10, 
+                                "Rating": 4.5, 
+                                "Regular Price": 279.99
+                            }, 
+                            {
+                                "Attract": 0.5019546925488811, 
+                                "Brand": "Brand BB", 
+                                "Discount": 150.0, 
+                                "Price": 299.0, 
+                                "Product": "2-in-1 12.2\" Touch-Screen Chromebook, Intel Celeron, 4GB RAM, 32G", 
+                                "Quantity": 8, 
+                                "Rating": 4.5, 
+                                "Regular Price": 449.0
+                            }, 
+                            {
+                                "Attract": 0.3823192071170035, 
+                                "Brand": "Brand V", 
+                                "Discount": 120.0, 
+                                "Price": 179.0, 
+                                "Product": "2-in-1 11.6\" Touch-Screen Chromebook, 4GB RAM, 32GB eMMC Flash Mem", 
+                                "Quantity": 8, 
+                                "Rating": 4.5, 
+                                "Regular Price": 299.0
+                            }, 
+                            {
+                                "Attract": 0.35730081129697383, 
+                                "Brand": "Brand P", 
+                                "Discount": 250.0, 
+                                "Price": 349.0, 
+                                "Product": "2-in-1 14\" Touch-Screen Chromebook, Intel Core i3, 8GB RAM, 64GB eMMC Fla", 
+                                "Quantity": 8, 
+                                "Rating": 4.6, 
+                                "Regular Price": 599.0
+                            }
+                        ]
+                    }, 
+                    "2-in-1 Laptop": {
+                        "TotalAttraction": 2.581192465848343, 
+                        "list": [
+                            {
+                                "Attract": 0.5663575373197991, 
+                                "Brand": "Brand P", 
+                                "Discount": 120.0, 
+                                "Price": 279.99, 
+                                "Product": "2-in-1 11.6\" Touch-Screen Laptop, Intel Pentium, 4GB RAM, 128GB", 
+                                "Quantity": 10, 
+                                "Rating": 4.6, 
+                                "Regular Price": 399.99
+                            }, 
+                            {
+                                "Attract": 0.5457731019092622, 
+                                "Brand": "Brand P", 
+                                "Discount": 500.0, 
+                                "Price": 1099.99, 
+                                "Product": "2-in-1 15.6\" 4K Ultra HD Touch-Screen Laptop, Intel Core i7, 16GB", 
+                                "Quantity": 10, 
+                                "Rating": 4.6, 
+                                "Regular Price": 1599.99
+                            }, 
+                            {
+                                "Attract": 0.5438362832675289, 
+                                "Brand": "Brand BB", 
+                                "Discount": 350.0, 
+                                "Price": 749.99, 
+                                "Product": "2-in-1 13.3\" 8GB RAM 256GB Flash Memory ", 
+                                "Quantity": 10, 
+                                "Rating": 4.7, 
+                                "Regular Price": 1099.99
+                            }, 
+                            {
+                                "Attract": 0.4884264968834017, 
+                                "Brand": "Brand G", 
+                                "Discount": 90.99000000000001, 
+                                "Price": 169.0, 
+                                "Product": "2-in-1 11.6\" 4GB RAM 32GB Flash Memory", 
+                                "Quantity": 8, 
+                                "Rating": 4.7, 
+                                "Regular Price": 259.99
+                            }, 
+                            {
+                                "Attract": 0.4367990464683517, 
+                                "Brand": "Brand P", 
+                                "Discount": 300.0, 
+                                "Price": 499.99, 
+                                "Product": "2-in-1 14\" Touch-Screen Laptop, Intel Core i5, 8GB RAM, 256GB S", 
+                                "Quantity": 8, 
+                                "Rating": 4.6, 
+                                "Regular Price": 799.99
+                            }
+                        ]
+                    }, 
+                    "Chromebook": {
+                        "TotalAttraction": 0.40658253926569243, 
+                        "list": [
+                            {
+                                "Attract": 0.2796557666606196, 
+                                "Brand": "Brand BB", 
+                                "Discount": 100.0, 
+                                "Price": 119.0, 
+                                "Product": "11.6\" Chromebook, Intel Atom x5, 4GB Memory, 32GB eMMC Flash Memo", 
+                                "Quantity": 12, 
+                                "Rating": 4.6, 
+                                "Regular Price": 219.0
+                            }, 
+                            {
+                                "Attract": 0.12692677260507285, 
+                                "Brand": "Brand BB", 
+                                "Discount": 100.0, 
+                                "Price": 89.0, 
+                                "Product": "11.6\" Chromebook, Intel Atom x5, 2GB Ram, 16GB eMMC Flash Memory", 
+                                "Quantity": 10, 
+                                "Rating": 4.6, 
+                                "Regular Price": 189.0
+                            }
+                        ]
+                    }, 
+                    "PC Laptop": {
+                        "TotalAttraction": 4.175544317739674, 
+                        "list": [
+                            {
+                                "Attract": 0.7521048591065388, 
+                                "Brand": "Brand P", 
+                                "Discount": 200.0, 
+                                "Price": 899.99, 
+                                "Product": "2-in-1 15.6\" Touch-Screen Laptop, Intel Core i7, 12GB RAM, 512GB S", 
+                                "Quantity": 12, 
+                                "Rating": 4.7, 
+                                "Regular Price": 1099.99
+                            }, 
+                            {
+                                "Attract": 0.6721386437884663, 
+                                "Brand": "Brand Y", 
+                                "Discount": 300.99, 
+                                "Price": 999.0, 
+                                "Product": "13.5\" 8GB RAM 256GB Solid State Drive", 
+                                "Quantity": 12, 
+                                "Rating": 4.6, 
+                                "Regular Price": 1299.99
+                            }, 
+                            {
+                                "Attract": 0.6596926716148238, 
+                                "Brand": "Brand BB", 
+                                "Discount": 300.0, 
+                                "Price": 949.99, 
+                                "Product": "15\" 16GB RAM 256GB Solid State Drive", 
+                                "Quantity": 12, 
+                                "Rating": 4.6, 
+                                "Regular Price": 1249.99
+                            }, 
+                            {
+                                "Attract": 0.510555435179465, 
+                                "Brand": "Brand P", 
+                                "Discount": 200.0, 
+                                "Price": 399.99, 
+                                "Product": "17.3\" Laptop, Intel Core i5, 8GB Memory, 256GB SSD, Jet Black, Maglia Pattern", 
+                                "Quantity": 10, 
+                                "Rating": 4.6, 
+                                "Regular Price": 599.99
+                            }, 
+                            {
+                                "Attract": 0.5031927991577955, 
+                                "Brand": "Brand P", 
+                                "Discount": 100.0, 
+                                "Price": 199.99, 
+                                "Product": "14\" Laptop, AMD A9 Series, 4GB Ram, AMD Radeon R5, 128GB SSD, WIndows", 
+                                "Quantity": 10, 
+                                "Rating": 4.5, 
+                                "Regular Price": 299.99
+                            }, 
+                            {
+                                "Attract": 0.42549974499361387, 
+                                "Brand": "Brand G", 
+                                "Discount": 170.0, 
+                                "Price": 279.99, 
+                                "Product": "15.6\" Touch-Screen Laptop, Intel Core i3, 8GB Ram, 128GB SSD", 
+                                "Quantity": 10, 
+                                "Rating": 4.5, 
+                                "Regular Price": 449.99
+                            }, 
+                            {
+                                "Attract": 0.3534640861579465, 
+                                "Brand": "Brand G", 
+                                "Discount": 250.0, 
+                                "Price": 349.99, 
+                                "Product": "15.6\" Touch-Screen Laptop, Intel Core i5, 8GB Ram, 256GB SSD", 
+                                "Quantity": 8, 
+                                "Rating": 4.5, 
+                                "Regular Price": 599.99
+                            }, 
+                            {
+                                "Attract": 0.29889607774102483, 
+                                "Brand": "Brand V", 
+                                "Discount": 100.0, 
+                                "Price": 129.99, 
+                                "Product": "11.4\" Laptop, AMD A6 Series, 4GB Ram, AMD Radeon R4, 65GB e", 
+                                "Quantity": 10, 
+                                "Rating": 4.1, 
+                                "Regular Price": 229.99
+                            }
+                        ]
+                    }
+                }
+            }, 
+            "Monitors": {
+                "TotalAttraction": 2.5100558644501185, 
+                "Type": {
+                    "LED": {
+                        "TotalAttraction": 2.5100558644501185, 
+                        "list": [
+                            {
+                                "Attract": 0.6598534787252147, 
+                                "Brand": "Brand BB", 
+                                "Discount": 70.0, 
+                                "Price": 229.99, 
+                                "Product": "28\" LED 4K UHD Monitor, UE590 Series", 
+                                "Quantity": 15, 
+                                "Rating": 4.5, 
+                                "Regular Price": 299.99
+                            }, 
+                            {
+                                "Attract": 0.5480772435639751, 
+                                "Brand": "Brand C", 
+                                "Discount": 80.0, 
+                                "Price": 169.99, 
+                                "Product": "24\" LED FHD Monitor, Black", 
+                                "Quantity": 15, 
+                                "Rating": 4.8, 
+                                "Regular Price": 249.99
+                            }, 
+                            {
+                                "Attract": 0.3913759390996141, 
+                                "Brand": "Brand P", 
+                                "Discount": 39.910000000000004, 
+                                "Price": 59.99, 
+                                "Product": "20.7\" LED FHD Monitor", 
+                                "Quantity": 8, 
+                                "Rating": 4.6, 
+                                "Regular Price": 99.9
+                            }, 
+                            {
+                                "Attract": 0.3586292154224069, 
+                                "Brand": "Brand G", 
+                                "Discount": 250.0, 
+                                "Price": 349.99, 
+                                "Product": "27\" LED QHD G-Sync Monitor, Black", 
+                                "Quantity": 12, 
+                                "Rating": 4.6, 
+                                "Regular Price": 599.99
+                            }, 
+                            {
+                                "Attract": 0.30247046670560046, 
+                                "Brand": "Brand P", 
+                                "Discount": 170.0, 
+                                "Price": 209.99, 
+                                "Product": "32\" LED QHD Monitor", 
+                                "Quantity": 12, 
+                                "Rating": 4.7, 
+                                "Regular Price": 379.99
+                            }, 
+                            {
+                                "Attract": 0.18960301803833693, 
+                                "Brand": "Brand P", 
+                                "Discount": 150.0, 
+                                "Price": 149.99, 
+                                "Product": "31.5\" IPS LED FHD Monitor", 
+                                "Quantity": 12, 
+                                "Rating": 4.6, 
+                                "Regular Price": 299.99
+                            }, 
+                            {
+                                "Attract": 0.06004650289497006, 
+                                "Brand": "Brand P", 
+                                "Discount": 140.0, 
+                                "Price": 109.99, 
+                                "Product": "27\" IPS LED FHD FreeSync Monitor, 27f", 
+                                "Quantity": 12, 
+                                "Rating": 4.8, 
+                                "Regular Price": 249.99
+                            }
+                        ]
+                    }
+                }
+            }, 
+            "Printers": {
+                "TotalAttraction": 1.0614624625077502, 
+                "Type": {
+                    "All-In-One": {
+                        "TotalAttraction": 1.0614624625077502, 
+                        "list": [
+                            {
+                                "Attract": 0.48628828383248024, 
+                                "Brand": "Brand P", 
+                                "Discount": 149.0, 
+                                "Price": 279.99, 
+                                "Product": "Color Wireless All-in-One Printer", 
+                                "Quantity": 15, 
+                                "Rating": 4.6, 
+                                "Regular Price": 428.99
+                            }, 
+                            {
+                                "Attract": 0.39040185229575186, 
+                                "Brand": "Brand K", 
+                                "Discount": 100.0, 
+                                "Price": 149.99, 
+                                "Product": "Wireless All-in-One Printer", 
+                                "Quantity": 12, 
+                                "Rating": 4.6, 
+                                "Regular Price": 249.99
+                            }, 
+                            {
+                                "Attract": 0.24926855715413782, 
+                                "Brand": "Brand E", 
+                                "Discount": 60.000000000000014, 
+                                "Price": 69.99, 
+                                "Product": "Wireless All-in-One Printer", 
+                                "Quantity": 12, 
+                                "Rating": 4.1, 
+                                "Regular Price": 129.99
+                            }, 
+                            {
+                                "Attract": 0.14956316553482374, 
+                                "Brand": "Brand E", 
+                                "Discount": 180.0, 
+                                "Price": 169.99, 
+                                "Product": "Wireless Color All-in-One Printer", 
+                                "Quantity": 12, 
+                                "Rating": 4.2, 
+                                "Regular Price": 349.99
+                            }, 
+                            {
+                                "Attract": 0.06737268874410404, 
+                                "Brand": "Brand P", 
+                                "Discount": 100.00000000000001, 
+                                "Price": 79.99, 
+                                "Product": "Wireless All-in-One Instant Ink Ready Printer", 
+                                "Quantity": 12, 
+                                "Rating": 4.5, 
+                                "Regular Price": 179.99
+                            }, 
+                            {
+                                "Attract": -0.28143208505354744, 
+                                "Brand": "Brand P", 
+                                "Discount": 50.0, 
+                                "Price": 19.99, 
+                                "Product": "Wireless All-in-One Printer", 
+                                "Quantity": 12, 
+                                "Rating": 4.1, 
+                                "Regular Price": 69.99
+                            }
+                        ]
+                    }
+                }
+            }, 
+            "Tablets": {
+                "TotalAttraction": 0.6263539444046131, 
+                "Type": {
+                    "Tablet": {
+                        "TotalAttraction": 0.6263539444046131, 
+                        "list": [
+                            {
+                                "Attract": 0.33466413209333395, 
+                                "Brand": "Brand H", 
+                                "Discount": 39.99999999999999, 
+                                "Price": 59.99, 
+                                "Product": "10.1\" Tablet, 32GB", 
+                                "Quantity": 10, 
+                                "Rating": 3.7, 
+                                "Regular Price": 99.99
+                            }, 
+                            {
+                                "Attract": 0.2916898123112791, 
+                                "Brand": "Brand N", 
+                                "Discount": 350.99, 
+                                "Price": 449.0, 
+                                "Product": "12.3\" Tablet, 64GB", 
+                                "Quantity": 10, 
+                                "Rating": 4.1, 
+                                "Regular Price": 799.99
+                            }
+                        ]
+                    }
+                }
+            }
+        }, 
+        "TotalAttraction": 17.019979906067277
+    }, 
+    "TV&Home Theater": {
+        "Category": {
+            "TVS 30\" to 45\"": {
+                "TotalAttraction": 2.8282978413101, 
+                "Type": {
+                    "1080p LED Smart": {
+                        "TotalAttraction": 0.5615280989846619, 
+                        "list": [
+                            {
+                                "Attract": 0.5615280989846619, 
+                                "Brand": "Brand BB", 
+                                "Discount": 80.0, 
+                                "Price": 179.99, 
+                                "Product": "40\" 1080p Smart LED HDTV, 5 Series", 
+                                "Quantity": 8, 
+                                "Rating": 4.7, 
+                                "Regular Price": 259.99
+                            }
+                        ]
+                    }, 
+                    "4K LED": {
+                        "TotalAttraction": 0.7564925004950337, 
+                        "list": [
+                            {
+                                "Attract": 0.7564925004950337, 
+                                "Brand": "Brand BB", 
+                                "Discount": 50.0, 
+                                "Price": 229.99, 
+                                "Product": "43\" 4K UHD HDR Smart LED TV, 6 Series", 
+                                "Quantity": 10, 
+                                "Rating": 4.7, 
+                                "Regular Price": 279.99
+                            }
+                        ]
+                    }, 
+                    "720p LED HDTV": {
+                        "TotalAttraction": 0.3732042266864126, 
+                        "list": [
+                            {
+                                "Attract": 0.3732042266864126, 
+                                "Brand": "Brand W", 
+                                "Discount": 70.00000000000001, 
+                                "Price": 99.99, 
+                                "Product": "32\" 720p LED HDTV", 
+                                "Quantity": 8, 
+                                "Rating": 4.7, 
+                                "Regular Price": 169.99
+                            }
+                        ]
+                    }, 
+                    "720p LED Smart": {
+                        "TotalAttraction": 1.1370730151439914, 
+                        "list": [
+                            {
+                                "Attract": 0.881674485091895, 
+                                "Brand": "Brand EE", 
+                                "Discount": 10.000000000000014, 
+                                "Price": 119.99, 
+                                "Product": "32\" 720p Smart LED HDTV Roku TV, 3 Series", 
+                                "Quantity": 10, 
+                                "Rating": 4.7, 
+                                "Regular Price": 129.99
+                            }, 
+                            {
+                                "Attract": 0.25539853005209623, 
+                                "Brand": "Brand O", 
+                                "Discount": 70.00000000000001, 
+                                "Price": 79.99, 
+                                "Product": "32\" LED 720p Smart TV, H5500 Series", 
+                                "Quantity": 12, 
+                                "Rating": 4.5, 
+                                "Regular Price": 149.99
+                            }
+                        ]
+                    }
+                }
+            }, 
+            "TVS 50\" - 55\"": {
+                "TotalAttraction": 6.095996712591195, 
+                "Type": {
+                    "4K LED": {
+                        "TotalAttraction": 5.313093729990602, 
+                        "list": [
+                            {
+                                "Attract": 0.8351313647503301, 
+                                "Brand": "Brand EE", 
+                                "Discount": 30.0, 
+                                "Price": 249.99, 
+                                "Product": "50\" 4K UHD HDR Smart LED Roku TV", 
+                                "Quantity": 12, 
+                                "Rating": 4.6, 
+                                "Regular Price": 279.99
+                            }, 
+                            {
+                                "Attract": 0.8254014935537208, 
+                                "Brand": "Brand BB", 
+                                "Discount": 50.0, 
+                                "Price": 349.99, 
+                                "Product": "50\" 4K UHD HDR Smart LED TV, 7 Series", 
+                                "Quantity": 12, 
+                                "Rating": 4.7, 
+                                "Regular Price": 399.99
+                            }, 
+                            {
+                                "Attract": 0.8139300903897807, 
+                                "Brand": "Brand EE", 
+                                "Discount": 40.0, 
+                                "Price": 279.99, 
+                                "Product": "55\" 4K UHD HDR Smart LED Roku TV, 4 Series", 
+                                "Quantity": 12, 
+                                "Rating": 4.6, 
+                                "Regular Price": 319.99
+                            }, 
+                            {
+                                "Attract": 0.8059403314995475, 
+                                "Brand": "Brand BB", 
+                                "Discount": 50.0, 
+                                "Price": 329.99, 
+                                "Product": "55\" 4K UHD HDR Smart LED TV, NU6900 Series", 
+                                "Quantity": 12, 
+                                "Rating": 4.6, 
+                                "Regular Price": 379.99
+                            }, 
+                            {
+                                "Attract": 0.781126268255747, 
+                                "Brand": "Brand BB", 
+                                "Discount": 50.0, 
+                                "Price": 279.99, 
+                                "Product": "50\" 4K UHD HDR Smart LED TV, NU6900 Series", 
+                                "Quantity": 12, 
+                                "Rating": 4.6, 
+                                "Regular Price": 329.99
+                            }, 
+                            {
+                                "Attract": 0.653847623144239, 
+                                "Brand": "Brand W", 
+                                "Discount": 100.0, 
+                                "Price": 299.99, 
+                                "Product": "55\" 4K UHD HDR Smart LED TV, UK6090PUA Series", 
+                                "Quantity": 8, 
+                                "Rating": 4.7, 
+                                "Regular Price": 399.99
+                            }, 
+                            {
+                                "Attract": 0.5977165583972364, 
+                                "Brand": "Brand DD", 
+                                "Discount": 200.0, 
+                                "Price": 499.99, 
+                                "Product": "55\" 4K UHD HDR Smart LED TV, X800G Series", 
+                                "Quantity": 8, 
+                                "Rating": 4.7, 
+                                "Regular Price": 699.99
+                            }
+                        ]
+                    }, 
+                    "4K OLED": {
+                        "TotalAttraction": 0.782902982600594, 
+                        "list": [
+                            {
+                                "Attract": 0.782902982600594, 
+                                "Brand": "Brand DD", 
+                                "Discount": 300.0, 
+                                "Price": 1499.99, 
+                                "Product": "55\" 4K UHD HDR Smart OLED TV, A8G Series", 
+                                "Quantity": 12, 
+                                "Rating": 4.8, 
+                                "Regular Price": 1799.99
+                            }
+                        ]
+                    }
+                }
+            }, 
+            "TVS 65\"": {
+                "TotalAttraction": 7.627439287736874, 
+                "Type": {
+                    "4K LED": {
+                        "TotalAttraction": 4.316423088612904, 
+                        "list": [
+                            {
+                                "Attract": 0.8385983855977129, 
+                                "Brand": "Brand BB", 
+                                "Discount": 50.0, 
+                                "Price": 429.99, 
+                                "Product": "65\" 4K UHD HDR Smart LED TV, NU6900 Series", 
+                                "Quantity": 12, 
+                                "Rating": 4.6, 
+                                "Regular Price": 479.99
+                            }, 
+                            {
+                                "Attract": 0.818521623800859, 
+                                "Brand": "Brand EE", 
+                                "Discount": 50.0, 
+                                "Price": 399.99, 
+                                "Product": "65\" 4K UHD HDR Smart LED Roku TV, 4 Series", 
+                                "Quantity": 12, 
+                                "Rating": 4.5, 
+                                "Regular Price": 449.99
+                            }, 
+                            {
+                                "Attract": 0.8031783610755788, 
+                                "Brand": "Brand BB", 
+                                "Discount": 100.0, 
+                                "Price": 599.99, 
+                                "Product": "65\" 4K UHD HDR Smart LED TV, 7 Series", 
+                                "Quantity": 12, 
+                                "Rating": 4.7, 
+                                "Regular Price": 699.99
+                            }, 
+                            {
+                                "Attract": 0.7998720267016147, 
+                                "Brand": "Brand DD", 
+                                "Discount": 200.0, 
+                                "Price": 1099.99, 
+                                "Product": "65\" 4K UHD HDR Smart LED TV, X900F Series", 
+                                "Quantity": 12, 
+                                "Rating": 4.8, 
+                                "Regular Price": 1299.99
+                            }, 
+                            {
+                                "Attract": 0.6952743818295745, 
+                                "Brand": "Brand DD", 
+                                "Discount": 200.0, 
+                                "Price": 699.99, 
+                                "Product": "65\" 4K UHD HDR Smart LED TV, X800G Series", 
+                                "Quantity": 12, 
+                                "Rating": 4.7, 
+                                "Regular Price": 899.99
+                            }, 
+                            {
+                                "Attract": 0.3609783096075639, 
+                                "Brand": "Brand O", 
+                                "Discount": 200.0, 
+                                "Price": 299.99, 
+                                "Product": "65\" 4K UHD HDR Smart LED TV, H6500F Series", 
+                                "Quantity": 8, 
+                                "Rating": 4.1, 
+                                "Regular Price": 499.99
+                            }
+                        ]
+                    }, 
+                    "4K OLED": {
+                        "TotalAttraction": 0.7369186667639837, 
+                        "list": [
+                            {
+                                "Attract": 0.7369186667639837, 
+                                "Brand": "Brand DD", 
+                                "Discount": 499.9999999999998, 
+                                "Price": 1999.99, 
+                                "Product": "65\" 4K UHD HDR Smart OLED TV, A8G Series", 
+                                "Quantity": 12, 
+                                "Rating": 4.8, 
+                                "Regular Price": 2499.99
+                            }
+                        ]
+                    }, 
+                    "4K QLED": {
+                        "TotalAttraction": 2.5740975323599864, 
+                        "list": [
+                            {
+                                "Attract": 0.9050845515783266, 
+                                "Brand": "Brand BB", 
+                                "Discount": 100.0, 
+                                "Price": 1699.99, 
+                                "Product": "65\" 4K UHD HDR Smart QLED TV, Q80 Series", 
+                                "Quantity": 15, 
+                                "Rating": 4.7, 
+                                "Regular Price": 1799.99
+                            }, 
+                            {
+                                "Attract": 0.865833328729454, 
+                                "Brand": "Brand BB", 
+                                "Discount": 100.0, 
+                                "Price": 999.99, 
+                                "Product": "65\" 4K UHD HDR Smart QLED TV, Q60 Series", 
+                                "Quantity": 15, 
+                                "Rating": 4.7, 
+                                "Regular Price": 1099.99
+                            }, 
+                            {
+                                "Attract": 0.803179652052206, 
+                                "Brand": "Brand BB", 
+                                "Discount": 200.0, 
+                                "Price": 1199.99, 
+                                "Product": "65\" 4K UHD HDR Smart QLED TV, Q70 Series", 
+                                "Quantity": 12, 
+                                "Rating": 4.7, 
+                                "Regular Price": 1399.99
+                            }
+                        ]
+                    }
+                }
+            }, 
+            "TVS 70\" - 75\"": {
+                "TotalAttraction": 4.0348346579422305, 
+                "Type": {
+                    "4K LED": {
+                        "TotalAttraction": 2.2753258245680597, 
+                        "list": [
+                            {
+                                "Attract": 0.7972952281319619, 
+                                "Brand": "Brand BB", 
+                                "Discount": 50.0, 
+                                "Price": 549.99, 
+                                "Product": "70\" 4K UHD HDR Smart LED TV, 6 Series", 
+                                "Quantity": 15, 
+                                "Rating": 4.1, 
+                                "Regular Price": 599.99
+                            }, 
+                            {
+                                "Attract": 0.7616600889647517, 
+                                "Brand": "Brand BB", 
+                                "Discount": 150.0, 
+                                "Price": 749.99, 
+                                "Product": "75\" 4K UHD HDR Smart LED TV, NU6900 Series", 
+                                "Quantity": 8, 
+                                "Rating": 4.6, 
+                                "Regular Price": 899.99
+                            }, 
+                            {
+                                "Attract": 0.7163705074713461, 
+                                "Brand": "Brand DD", 
+                                "Discount": 300.0, 
+                                "Price": 1099.99, 
+                                "Product": "75\" 4K UHD HDR LED Smart TV, X800G Series", 
+                                "Quantity": 8, 
+                                "Rating": 4.8, 
+                                "Regular Price": 1399.99
+                            }
+                        ]
+                    }, 
+                    "4K QLED": {
+                        "TotalAttraction": 1.7595088333741709, 
+                        "list": [
+                            {
+                                "Attract": 0.8936750301701902, 
+                                "Brand": "Brand BB", 
+                                "Discount": 100.0, 
+                                "Price": 1199.99, 
+                                "Product": "75\" 4K UHD HDR Smart QLED TV, Q60 Series", 
+                                "Quantity": 15, 
+                                "Rating": 4.8, 
+                                "Regular Price": 1299.99
+                            }, 
+                            {
+                                "Attract": 0.8658338032039807, 
+                                "Brand": "Brand BB", 
+                                "Discount": 199.99999999999977, 
+                                "Price": 1999.99, 
+                                "Product": "75\" 4K UHD HDR Smart QLED TV, Q70 Series", 
+                                "Quantity": 12, 
+                                "Rating": 4.7, 
+                                "Regular Price": 2199.99
+                            }
+                        ]
+                    }
+                }
+            }, 
+            "TVS 85\"": {
+                "TotalAttraction": 0.8262136027752036, 
+                "Type": {
+                    "4K LED": {
+                        "TotalAttraction": 0.8262136027752036, 
+                        "list": [
+                            {
+                                "null": [
+                                    ""
+                                ], 
+                                "Attract": 0.8262136027752036, 
+                                "Brand": "Brand DD", 
+                                "Discount": 400.0, 
+                                "Price": 2599.99, 
+                                "Product": "85\" 4K UHD HDR Smart LED TV, X900F Series", 
+                                "Quantity": 8, 
+                                "Rating": 4.8, 
+                                "Regular Price": 2999.99
+                            }
+                        ]
+                    }
+                }
+            }, 
+            "Video": {
+                "TotalAttraction": 2.115155838973779, 
+                "Type": {
+                    "Blu-Ray Players": {
+                        "TotalAttraction": 2.115155838973779, 
+                        "list": [
+                            {
+                                "Attract": 0.580863499135683, 
+                                "Brand": "Brand W", 
+                                "Discount": 19.999999999999993, 
+                                "Price": 49.99, 
+                                "Product": "Streaming Audio Blu-Ray Player ", 
+                                "Quantity": 15, 
+                                "Rating": 4.5, 
+                                "Regular Price": 69.99
+                            }, 
+                            {
+                                "Attract": 0.5105458965568741, 
+                                "Brand": "Brand DD", 
+                                "Discount": 100.0, 
+                                "Price": 199.99, 
+                                "Product": "Streaming 4K Ultra HD Hi-Res Audio Wi-Fi Built-In Blu-Ray Player", 
+                                "Quantity": 10, 
+                                "Rating": 4.6, 
+                                "Regular Price": 299.99
+                            }, 
+                            {
+                                "Attract": 0.4037919222895634, 
+                                "Brand": "Brand W", 
+                                "Discount": 29.999999999999993, 
+                                "Price": 49.99, 
+                                "Product": "Streaming Audio Wi-Fi Built-In Blu-Ray Player", 
+                                "Quantity": 10, 
+                                "Rating": 4.1, 
+                                "Regular Price": 79.99
+                            }, 
+                            {
+                                "Attract": 0.23809417392207147, 
+                                "Brand": "Brand DD", 
+                                "Discount": 120.0, 
+                                "Price": 129.99, 
+                                "Product": "Streaming 4K Ultra HD Hi-Res Audio Wi-Fi Built-In Blu-Ray Player", 
+                                "Quantity": 8, 
+                                "Rating": 4.8, 
+                                "Regular Price": 249.99
+                            }, 
+                            {
+                                "Attract": 0.19227503047136962, 
+                                "Brand": "Brand BB", 
+                                "Discount": 150.0, 
+                                "Price": 149.99, 
+                                "Product": "Streaming 4K Ultra HD Audio Wi-Fi Built-In Blu-Ray Player", 
+                                "Quantity": 8, 
+                                "Rating": 4.7, 
+                                "Regular Price": 299.99
+                            }, 
+                            {
+                                "Attract": 0.18958531659821745, 
+                                "Brand": "Brand W", 
+                                "Discount": 100.00000000000001, 
+                                "Price": 99.99, 
+                                "Product": "4K Ultra HD Blu-Ray Player", 
+                                "Quantity": 8, 
+                                "Rating": 4.6, 
+                                "Regular Price": 199.99
+                            }
+                        ]
+                    }
+                }
+            }
+        }, 
+        "TotalAttraction": 23.527937941329384
+    }, 
+    "Video Gaming": {
+        "Category": {
+            "Console Game Systems": {
+                "TotalAttraction": 2.341278893701037, 
+                "Type": {
+                    "Consoles": {
+                        "TotalAttraction": 2.341278893701037, 
+                        "list": [
+                            {
+                                "Attract": 0.8501554177822653, 
+                                "Brand": "Brand GG", 
+                                "Discount": 40.0, 
+                                "Price": 384.99, 
+                                "Product": "32GB Console - Gray Joy-Con + 2 more items", 
+                                "Quantity": 15, 
+                                "Rating": 4.6, 
+                                "Regular Price": 424.99
+                            }, 
+                            {
+                                "Attract": 0.6885131995345616, 
+                                "Brand": "Brand DD", 
+                                "Discount": 69.90999999999997, 
+                                "Price": 229.99, 
+                                "Product": "1TB Fortnite Neo Versa Console Bundle - Jet Black", 
+                                "Quantity": 15, 
+                                "Rating": 4.8, 
+                                "Regular Price": 299.9
+                            }, 
+                            {
+                                "Attract": 0.4013051381921052, 
+                                "Brand": "Brand Y", 
+                                "Discount": 200.0, 
+                                "Price": 299.99, 
+                                "Product": "1TB NBA 2K20 Bundle - Black", 
+                                "Quantity": 20, 
+                                "Rating": 4.8, 
+                                "Regular Price": 499.99
+                            }, 
+                            {
+                                "Attract": 0.4013051381921052, 
+                                "Brand": "Brand Y", 
+                                "Discount": 200.0, 
+                                "Price": 299.99, 
+                                "Product": "1TB Star Wars Jedi: Fallen Order Deluxe Edition Console Bundle", 
+                                "Quantity": 15, 
+                                "Rating": 4.8, 
+                                "Regular Price": 499.99
+                            }
+                        ]
+                    }
+                }
+            }, 
+            "PC Gaming": {
+                "TotalAttraction": 5.43692600460569, 
+                "Type": {
+                    "Gaming Desktop": {
+                        "TotalAttraction": 3.485221783248271, 
+                        "list": [
+                            {
+                                "Attract": 0.8343442498317327, 
+                                "Brand": "Brand Q", 
+                                "Discount": 200.0, 
+                                "Price": 1499.99, 
+                                "Product": "Gaming Desktop, Intel Core i7-9700K, 16GB RAM, NVIDIA GeForce", 
+                                "Quantity": 15, 
+                                "Rating": 4.7, 
+                                "Regular Price": 1699.99
+                            }, 
+                            {
+                                "Attract": 0.7270244541353891, 
+                                "Brand": "Brand F", 
+                                "Discount": 120.0, 
+                                "Price": 479.99, 
+                                "Product": "Gamer Master Gaming Desktop, AMD Ryzen 3 2300X, 8GB Memory", 
+                                "Quantity": 15, 
+                                "Rating": 4.7, 
+                                "Regular Price": 599.99
+                            }, 
+                            {
+                                "Attract": 0.676023383102249, 
+                                "Brand": "Brand Q", 
+                                "Discount": 200.0, 
+                                "Price": 649.99, 
+                                "Product": "Gaming Desktop, Intel Core i5-9400F, 8GB RAM, NVIDIA GeForce G", 
+                                "Quantity": 15, 
+                                "Rating": 4.7, 
+                                "Regular Price": 849.99
+                            }, 
+                            {
+                                "Attract": 0.6505177012520459, 
+                                "Brand": "Brand F", 
+                                "Discount": 220.0, 
+                                "Price": 599.99, 
+                                "Product": "Gamer Master Gaming Desktop, AMD Ryzen 5 3600, 8GB Memory ", 
+                                "Quantity": 12, 
+                                "Rating": 5.0, 
+                                "Regular Price": 819.99
+                            }, 
+                            {
+                                "Attract": 0.5973119949268544, 
+                                "Brand": "Brand F", 
+                                "Discount": 450.0, 
+                                "Price": 1049.99, 
+                                "Product": "Gamer Supreme Liquid Cool Gaming Desktop, AMD Ryzen 7 3700X", 
+                                "Quantity": 10, 
+                                "Rating": 5.0, 
+                                "Regular Price": 1499.99
+                            }
+                        ]
+                    }, 
+                    "Gaming Laptop": {
+                        "TotalAttraction": 1.9517042213574185, 
+                        "list": [
+                            {
+                                "Attract": 0.6856140484669174, 
+                                "Brand": "Brand Z", 
+                                "Discount": 400.0, 
+                                "Price": 1399.99, 
+                                "Product": "15.6\" Gaming Laptop, Intel Core i7, 32GB RAM, NVIDIA GeForce RTX 2060, 5", 
+                                "Quantity": 15, 
+                                "Rating": 4.6, 
+                                "Regular Price": 1799.99
+                            }, 
+                            {
+                                "Attract": 0.4754931389276944, 
+                                "Brand": "Brand C", 
+                                "Discount": 300.0, 
+                                "Price": 579.99, 
+                                "Product": "15.6\" Gaming Laptop, Intel Core i5, 8GB RAM, NVIDIA GeForce GTX 1650, 51", 
+                                "Quantity": 12, 
+                                "Rating": 4.3, 
+                                "Regular Price": 879.99
+                            }, 
+                            {
+                                "Attract": 0.45529687653031314, 
+                                "Brand": "Brand C", 
+                                "Discount": 500.0, 
+                                "Price": 899.99, 
+                                "Product": "17.3\" Gaming Laptop, Intel Core i7, 16GB RAM, NVIDIA GeForce GTX 1660 T", 
+                                "Quantity": 12, 
+                                "Rating": 4.4, 
+                                "Regular Price": 1399.99
+                            }, 
+                            {
+                                "Attract": 0.33530015743249353, 
+                                "Brand": "Brand P", 
+                                "Discount": 350.0, 
+                                "Price": 449.99, 
+                                "Product": "15.6\" Gaming Laptop, AMD Ryzen 5, 8GB Ram, NVIDIA GeForce GTX 1050, 25", 
+                                "Quantity": 10, 
+                                "Rating": 5.0, 
+                                "Regular Price": 799.99
+                            }
+                        ]
+                    }
+                }
+            }
+        }, 
+        "TotalAttraction": 7.778204898306727
+    }
+}

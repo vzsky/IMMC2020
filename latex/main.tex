@@ -1,0 +1,171 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath, amssymb, amsfonts, amsthm,  thmtools, graphicx, titlesec}
+\usepackage[left = 2.5cm, right = 2.5cm, top = 2.5cm, bottom = 2.5cm]{geometry}
+\usepackage[inline]{asymptote}
+
+\usepackage[dvipsnames]{xcolor} 
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linktoc=all,
+    linkcolor=RoyalBlue, 
+    urlcolor=RoyalBlue
+}
+
+\everymath{\displaystyle}
+
+\newcommand{\seperate}{\par\noindent\strut\hrulefill}
+
+\newcounter{Problem}[section]
+\newenvironment{prob}[1][]{\stepcounter{Problem} \newline\hyperlink{theproblem}{\textsf{\textbf{Problem \theProblem.}}}~ #1\rmfamily}{\medskip}
+
+\newenvironment{lined-prob}[1][]{\stepcounter{Problem}\par\noindent\hyperlink{theproblem}{\textsf{\textbf{Problem \theProblem.}}}~ #1\rmfamily\color{Blue}}{\medskip\color{black}\seperate\bigskip}
+
+\newenvironment{sol}[1][]{\newline\textbf{Solution.}~ #1\rmfamily}{\newline\null\hfill\blacksquare}{\medskip}
+
+\newcounter{Altsol}[section]
+\newenvironment{alt-sol}[1][]{\stepcounter{Altsol}\par\noindent\newline\textbf{Solution \theAltsol.}~ #1\rmfamily}{\newline\null\hfill\blacksquare}{\medskip}
+
+\newcounter{AltsolMarking}[section]
+\newenvironment{alt-sol-marking}[1][]{\stepcounter{AltsolMarking}\par\noindent\newline\textbf{Solution \theAltsolMarking.}~ #1\rmfamily}{\smallskip}
+
+\usepackage[framemethod=TikZ]{mdframed}
+\definecolor{Relic}{HTML}{00C030}
+\mdfdefinestyle{mdRelicbox}{%
+ linewidth=3pt,
+ skipabove=12pt,
+ frametitleaboveskip=5pt,
+ frametitlebelowskip=0pt,
+ skipbelow=2pt,
+ frametitlefont=\bfseries,
+ innertopmargin=4pt,
+ innerbottommargin=8pt,
+ nobreak=true,
+ backgroundcolor=Relic!18,
+ rightline=true,
+ leftline=true,
+ topline=false,
+ bottomline=false,
+ linecolor=Relic,
+ }
+\declaretheoremstyle[
+ headfont=\sffamily\bfseries\color{RawSienna},
+ mdframed={style=mdRelicbox},
+ headpunct={: },
+ postheadspace={0pt},
+]{thmRelicbox}
+
+\declaretheorem[style=thmRelicbox,name=Definition,numbered=no]{definition}
+\definecolor{Alien}{HTML}{0050F0}
+\mdfdefinestyle{mdAlienbox}{%
+ linewidth=3pt,
+ skipabove=12pt,
+ frametitleaboveskip=5pt,
+ frametitlebelowskip=0pt,
+ skipbelow=2pt,
+ frametitlefont=\bfseries,
+ innertopmargin=4pt,
+ innerbottommargin=8pt,
+ nobreak=true,
+ backgroundcolor=Alien!18,
+ rightline=true,
+ leftline=true,
+ topline=false,
+ bottomline=false,
+ linecolor=Alien,
+ }
+\declaretheoremstyle[
+ headfont=\sffamily\bfseries\color{RawSienna},
+ mdframed={style=mdAlienbox},
+ headpunct={. },
+ postheadspace={0pt},
+]{thmAlienbox}
+
+\mdfdefinestyle{mdgreenbox}{%
+ linewidth=3pt,
+ skipabove=12pt,
+ frametitleaboveskip=5pt,
+ frametitlebelowskip=0pt,
+ skipbelow=2pt,
+ frametitlefont=\bfseries,
+ innertopmargin=4pt,
+ innerbottommargin=8pt,
+ nobreak=true,
+ backgroundcolor=Salmon!10,
+ rightline=false,
+ leftline=true,
+ topline=false,
+ bottomline=false,
+ linecolor=Red,
+}
+\declaretheoremstyle[
+ headfont=\sffamily\bfseries\color{RawSienna},
+ mdframed={style=mdgreenbox},
+ headpunct={. },
+ postheadspace={0pt},
+]{thmgreenbox}
+\declaretheorem[style=thmgreenbox,name=Model,numbered=no]{model}
+
+\newenvironment{prflem}[1][]{\newline\textit{Proof of lemma:}~ #1\rmfamily}{ \qed \newline}{\medskip}
+\newenvironment{prfclaim}[1][]{\newline\textit{Proof:}~ #1\rmfamily}{ \qed \newline}{\medskip}
+
+
+\title{IMMC 2020 : Flash sale}
+\date{}
+\author{TEAM NUMBER 20200901}
+
+\begin{document}
+\maketitle
+
+\section{Summary}
+\input{Summary}
+
+\newpage
+\tableofcontents
+\newpage
+
+\section{Introduction} 
+\input{Introduction}
+
+\section{Restatement of Problem}
+\input{Restatement}
+
+\section{Variables}
+\input{Variable}
+
+\newpage
+\section{General Assumption}
+\input{GeneralAssumption}
+\newpage
+\section{Crucial factors}
+\input{CrucialFactors}
+\newpage
+\section{Modeling and Calculation}
+\input{ModelingCalculation}
+
+\newpage
+\section{Solutions and Suggestions}
+\input{Solution}
+\newpage
+\section{Floor plan}
+\input{floorplan}
+\newpage
+\section{Analysis of Our Model}
+\input{Analysis}
+\newpage
+\section{Compare models}
+\input{Compare}
+\newpage
+\section{Appendix}
+\input{Appendix}
+\newpage
+\section{Reference}
+\input{Reference}
+
+\newpage
+\section{Letter to the store manager}
+\input{letter}
+
+
+\end{document}
